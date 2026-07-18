@@ -1976,6 +1976,7 @@ markers:
       ', id: KR4e0030_krp_003-bkkkrnewl353}
   - {type: line-break, offset: 6026, content: '', id: KR4e0030_SBCK_003-17a02}
   - {type: punctuation, offset: 6034, content: (, id: KR4e0030_krp_003-bkkpn1}
+  - {type: voice, offset: 6034, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 6036, content: ), id: KR4e0030_krp_003-bkkpn2}
   - {type: substitution, offset: 6041, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: substitution, offset: 6042, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
@@ -2164,6 +2165,7 @@ markers:
   - {type: line-break, offset: 6624, content: '', id: KR4e0030_SBCK_003-18b03}
   - {type: substitution, offset: 6625, original: 㓜, replacement: 幼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19391}}
   - {type: punctuation, offset: 6627, content: (, id: KR4e0030_krp_003-bkkpn3}
+  - {type: voice, offset: 6627, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 6629, content: ), id: KR4e0030_krp_003-bkkpn4}
   - {type: substitution, offset: 6629, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: variant, offset: 6639, length: 1, content: 𥘉, SBCK: 􅀄}
@@ -2656,4 +2658,4 @@ markers:
 
       ', id: KR4e0030_krp_003-bkkkrnewl475}
   back: []
-hash: sha256:da986c8d62ebbd94096aedd091a63e316d08940aa16e3e738130937599aad982
+hash: sha256:872e2dc9fef38ba3a503af4188a12774dc0a8dbe169de92c07d52e8b6593b802
